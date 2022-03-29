@@ -1,1 +1,1 @@
-This repository contains all my relevant projects and coursework.
+This repository contains all of my relevant projects and coursework.
